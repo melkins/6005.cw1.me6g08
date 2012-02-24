@@ -3,7 +3,7 @@ Version: 1.0-1
 Architecture: i386
 Maintainer: Mike Elkins <me6g08@ecs.soton.ac.uk>
 Installed-Size: 76
-Depends: php, debconf
+Depends: php5-cli, debconf
 Section: net
 Priority: extra
 Homepage: https://github.com/melkins/6005.cw1.me6g08

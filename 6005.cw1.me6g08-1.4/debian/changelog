@@ -1,3 +1,37 @@
+6005.cw1.me6g08 (1.4) stable; urgency=low
+
+  * Added examples file.
+  * Generated newer changelog.
+  * Regenerated deb file with updates.
+  * Added README, final changes to code.
+  * Reverted user saving back due to errors in postinst script and deleted.
+
+ -- Mike Elkins <me6g08@ecs.soton.ac.uk>  Fri, 24 Feb 2012 13:44:40 +0000
+
+6005.cw1.me6g08 (1.3) stable; urgency=low
+
+  * Fixed bugs in different code areas, fixed dependencies in the code.
+
+ -- Mike Elkins <me6g08@ecs.soton.ac.uk>  Fri, 24 Feb 2012 10:10:11 +0000
+
+6005.cw1.me6g08 (1.2) stable; urgency=low
+
+  * Added script to run file on its own
+  * Included templates for cron script and debconf for future use if time permits
+  * customised man pages with fixes.
+
+ -- Mike Elkins <me6g08@ecs.soton.ac.uk>  Thu, 23 Feb 2012 23:42:40 +0000
+
+6005.cw1.me6g08 (1.1) stable; urgency=low
+
+  * Set structure
+  * Added template files
+  * added original man pages and template files before customising them
+  * added reference code from forked code
+
+ -- Mike Elkins <me6g08@ecs.soton.ac.uk>  Thu, 23 Feb 2012 20:29:21 +0000
+
+
 6005.cw1.me6g08 (1.0-1) unstable; urgency=low
 
   * Initial release (Closes: #101)

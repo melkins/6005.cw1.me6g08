@@ -1,0 +1,45 @@
+INFO6005 Coursework Readme
+================================
+
+Repository
+--------------
+Can be found at https://github.com/melkins/6005.cw1.me6g08/
+
+Log of commits is at https://github.com/melkins/6005.cw1.me6g08/
+
+Includes
+--------------
+
+Man Pages for the package.
+Tags are on the github repository, with each milestone tagged.
+Script to run the program without having to call php and the file each time.
+Tested using lintian - worked correctly.
+Examples showing how to use the tool.
+Changelog produced
+
+To install the package:
+
+dpkg -i 6005.cw1.me6g08_1.4_i386.deb
+
+To run the program:
+6005.cw1.me6g08 --feeds http://www.bbc.co.uk/radio1/rss/rss_radio1.xml --items 5
+
+6005.cw1.me6g08 --help for additional info
+
+To uninstall the package:
+
+sudo dpkg -r 6005.cw1.me6g08
+
+Packaging the tool:
+
+Run dh_make to generate the templates, edit them to suit, use fakeroot dpkg-buildpackage to produce package
+
+To test using lintian:
+
+lintian 6005.cw1.me6g08_1.0-1_i386 (optional -v for verbose for more detail on errors)
+
+References used
+-----------------
+
+http://www.debian.org/doc/manuals/maint-guide/dother.en.html#manpage
+http://www.youtube.com/watch?v=nhoRyd2CEVs&feature=related
