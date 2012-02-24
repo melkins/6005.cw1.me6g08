@@ -10,7 +10,7 @@ Homepage: https://github.com/melkins/6005.cw1.me6g08
 
 Package: 6005.cw1.me6g08
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, php, debconf
+Depends: ${shlibs:Depends}, ${misc:Depends}, php5-cli, debconf
 Description: Simple RSS Reader to read the latest news items from a feed.
  RSS Reader which uses a config file to read the
  latest news from an RSS feed defined by a user.

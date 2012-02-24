@@ -9,10 +9,10 @@ Standards-Version: 3.9.2
 Build-Depends: debhelper (>= 8.0.0)
 Checksums-Sha1: 
  babdecde38be1b1b69570596cb393b3dcb501781 15119 6005.cw1.me6g08_1.0.orig.tar.gz
- 089fcd4c00c55cdc97308ac0fd08e1819ff5213a 9781 6005.cw1.me6g08_1.0-1.debian.tar.gz
+ 46cb6a8cc5c1d68a967408824f7ec7786972b94f 9757 6005.cw1.me6g08_1.0-1.debian.tar.gz
 Checksums-Sha256: 
  e191089bbc2afb568fa625d11be82c36b409b944c420f30a34db633269050223 15119 6005.cw1.me6g08_1.0.orig.tar.gz
- 8a8191344b4c28f0a2a54c01eeda1535ea4105a760ac76ca530d80f0bbee435b 9781 6005.cw1.me6g08_1.0-1.debian.tar.gz
+ d2aa1e7c9e7986648655886f925a9a0e10d15033572bf178dd3a9f245abf09e3 9757 6005.cw1.me6g08_1.0-1.debian.tar.gz
 Files: 
  4ec7b13ac2304d370ce52a0fe4ac3fd3 15119 6005.cw1.me6g08_1.0.orig.tar.gz
- 4c87555544c617efd3d8cffe75fe9dc0 9781 6005.cw1.me6g08_1.0-1.debian.tar.gz
+ 381e0361eb6c5cad6a78e841754c6a3b 9757 6005.cw1.me6g08_1.0-1.debian.tar.gz
