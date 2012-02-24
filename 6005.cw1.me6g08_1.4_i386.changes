@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Fri, 24 Feb 2012 13:44:40 +0000
+Source: 6005.cw1.me6g08
+Binary: 6005.cw1.me6g08
+Architecture: source i386
+Version: 1.4
+Distribution: stable
+Urgency: low
+Maintainer: Mike Elkins <me6g08@ecs.soton.ac.uk>
+Changed-By: Mike Elkins <me6g08@ecs.soton.ac.uk>
+Description: 
+ 6005.cw1.me6g08 - Simple RSS Reader to read the latest news items from a feed.
+Changes: 
+ 6005.cw1.me6g08 (1.4) stable; urgency=low
+ .
+   * Added examples file.
+   * Generated newer changelog.
+   * Regenerated deb file with updates.
+   * Added README, final changes to code.
+   * Reverted user saving back due to errors in postinst script and deleted.
+Checksums-Sha1: 
+ 5d120873554ae9aee0797759e640cb42a93f20b6 824 6005.cw1.me6g08_1.4.dsc
+ babdecde38be1b1b69570596cb393b3dcb501781 15119 6005.cw1.me6g08_1.4.orig.tar.gz
+ 301209d43567ee9af12d3fa3e5ce95eaafb90959 10347 6005.cw1.me6g08_1.4.debian.tar.gz
+ 518fdc2afe5a25d68cd8955ef26a984bc56ad7fd 7016 6005.cw1.me6g08_1.4_i386.deb
+Checksums-Sha256: 
+ 2060fa8e4019fd6e5df640312aa2534d85eaa7d433ec8e5edb09c49a820a7c26 824 6005.cw1.me6g08_1.4.dsc
+ e191089bbc2afb568fa625d11be82c36b409b944c420f30a34db633269050223 15119 6005.cw1.me6g08_1.4.orig.tar.gz
+ d81424c274e7c10d4d6ecf6a67b674c372facae30cea975b262c14c22f8c0bb1 10347 6005.cw1.me6g08_1.4.debian.tar.gz
+ 49e84b9c64f78db4d780efc6fcc34ae54ca5ca0d250ec56786b966d51ae30728 7016 6005.cw1.me6g08_1.4_i386.deb
+Files: 
+ 6d25459110c304b81cccc98c3d0b9833 824 net extra 6005.cw1.me6g08_1.4.dsc
+ 4ec7b13ac2304d370ce52a0fe4ac3fd3 15119 net extra 6005.cw1.me6g08_1.4.orig.tar.gz
+ 2bf9b87526ebce7e0baef06885e08716 10347 net extra 6005.cw1.me6g08_1.4.debian.tar.gz
+ 89036201e7a91cd4c44c0b494fa45015 7016 net extra 6005.cw1.me6g08_1.4_i386.deb

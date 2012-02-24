@@ -1,0 +1,8 @@
+Examples
+
+1. Using with options
+	6005.cw1.me6g08 --feeds http://bbc.co.uk/feeds.xml --items 10
+
+2. Obtaining help
+	6005.cw1.me6g08 --help
+

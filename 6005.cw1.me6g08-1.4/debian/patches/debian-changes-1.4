@@ -1,0 +1,39 @@
+Description: Upstream changes introduced in version 1.4
+ This patch has been created by dpkg-source during the package build.
+ Here's the last changelog entry, hopefully it gives details on why
+ those changes were made:
+ .
+ 6005.cw1.me6g08 (1.4) stable; urgency=low
+ .
+   * Added examples file.
+   * Generated newer changelog.
+   * Regenerated deb file with updates.
+   * Added README, final changes to code.
+   * Reverted user saving back due to errors in postinst script and deleted.
+ .
+ The person named in the Author field signed this changelog entry.
+Author: Mike Elkins <me6g08@ecs.soton.ac.uk>
+
+---
+The information above should follow the Patch Tagging Guidelines, please
+checkout http://dep.debian.net/deps/dep3/ to learn about the format. Here
+are templates for supplementary fields that you might want to add:
+
+Origin: <vendor|upstream|other>, <url of original patch>
+Bug: <url in upstream bugtracker>
+Bug-Debian: http://bugs.debian.org/<bugnumber>
+Bug-Ubuntu: https://launchpad.net/bugs/<bugnumber>
+Forwarded: <no|not-needed|url proving that it has been forwarded>
+Reviewed-By: <name and email of someone who approved the patch>
+Last-Update: <YYYY-MM-DD>
+
+--- 6005.cw1.me6g08-1.4.orig/src/index.php
++++ 6005.cw1.me6g08-1.4/src/index.php
+@@ -47,6 +47,7 @@
+ 	# Read config from file
+ 	if (@!$config) {
+ 		$config_file = 'feeds.conf';
++	#	$config_file = $SERVER['HOME'].'/.6005.cw1.me6g08/feeds.conf';
+ 		if (file_exists($config_file)) {
+ 			$config = conf_from_file($config_file);
+ 		}
