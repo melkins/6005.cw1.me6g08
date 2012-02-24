@@ -10,23 +10,23 @@ Maintainer: Mike Elkins <me6g08@ecs.soton.ac.uk>
 Changed-By: Mike Elkins <me6g08@ecs.soton.ac.uk>
 Description: 
  6005.cw1.me6g08 - Simple RSS Reader to read the latest news items from a feed.
-Closes: 0001
+Closes: 101
 Changes: 
  6005.cw1.me6g08 (1.0-1) unstable; urgency=low
  .
-   * Initial release (Closes: #0001)
+   * Initial release (Closes: #101)
 Checksums-Sha1: 
- e33827fde04f9cb38082de372eb7f8aa799872ec 829 6005.cw1.me6g08_1.0-1.dsc
+ cd6f15f61e255aef588b5241258ae89c0c690fb8 829 6005.cw1.me6g08_1.0-1.dsc
  babdecde38be1b1b69570596cb393b3dcb501781 15119 6005.cw1.me6g08_1.0.orig.tar.gz
- 2a1029f6f961cff1a272a71a8afacba97ec0e7d9 5470 6005.cw1.me6g08_1.0-1.debian.tar.gz
- 01b9d0320c1617bf0f2e1b6e2f74e1eed2a2d8cc 5198 6005.cw1.me6g08_1.0-1_i386.deb
+ 089fcd4c00c55cdc97308ac0fd08e1819ff5213a 9781 6005.cw1.me6g08_1.0-1.debian.tar.gz
+ e5a9bbc6cd1114475a714b079f3ec152c3025463 6426 6005.cw1.me6g08_1.0-1_i386.deb
 Checksums-Sha256: 
- 194d2bff5a2fcd0a36d7b574cb71fed3c8f9b7468dcd63348398becfbd02bd73 829 6005.cw1.me6g08_1.0-1.dsc
+ f5b04deb178fbc405dd398b855aae6d3393fbf92fcb259e109d5995f930dc646 829 6005.cw1.me6g08_1.0-1.dsc
  e191089bbc2afb568fa625d11be82c36b409b944c420f30a34db633269050223 15119 6005.cw1.me6g08_1.0.orig.tar.gz
- f1d06a06cd3ab628228be91d656387f8d14c590de3081a73274e5d04c67c5bca 5470 6005.cw1.me6g08_1.0-1.debian.tar.gz
- 0f49a0ac379224d26e4e9739082c9a6a638ca222eaed3515a002d8edb99ce022 5198 6005.cw1.me6g08_1.0-1_i386.deb
+ 8a8191344b4c28f0a2a54c01eeda1535ea4105a760ac76ca530d80f0bbee435b 9781 6005.cw1.me6g08_1.0-1.debian.tar.gz
+ 95d8bcb1fe7498c7181ee1d17c91eebbfa8de098ec3d2a610281bc378f33c902 6426 6005.cw1.me6g08_1.0-1_i386.deb
 Files: 
- aa36604b5bde3f1c6c556d0db9c46805 829 net extra 6005.cw1.me6g08_1.0-1.dsc
+ ea86af64ffa3580a936c332689fd6531 829 net extra 6005.cw1.me6g08_1.0-1.dsc
  4ec7b13ac2304d370ce52a0fe4ac3fd3 15119 net extra 6005.cw1.me6g08_1.0.orig.tar.gz
- f69bf6b8ac69bcbdaf318c8eba1655c6 5470 net extra 6005.cw1.me6g08_1.0-1.debian.tar.gz
- 98dfc66204717c455c0fdcc17e4afa67 5198 net extra 6005.cw1.me6g08_1.0-1_i386.deb
+ 4c87555544c617efd3d8cffe75fe9dc0 9781 net extra 6005.cw1.me6g08_1.0-1.debian.tar.gz
+ dbfa27b67af558dea73e08733e3c0c66 6426 net extra 6005.cw1.me6g08_1.0-1_i386.deb
