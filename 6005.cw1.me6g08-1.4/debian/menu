@@ -1,0 +1,3 @@
+?package(6005.cw1.me6g08): needs=X11 \
+        section=Applications/Network/Web News \
+        title=6005.cw1.me6g08 command=6005.cw1.me6g08
