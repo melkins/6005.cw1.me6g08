@@ -1,5 +1,5 @@
 Source: 6005.cw1.me6g08
-Section: unknown
+Section: net
 Priority: extra
 Maintainer: Mike Elkins <me6g08@ecs.soton.ac.uk>
 Build-Depends: debhelper (>= 8.0.0)

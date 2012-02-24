@@ -3,8 +3,7 @@ Upstream-Name: 6005.cw1.me6g08
 Source: <url://example.com>
 
 Files: *
-Copyright: <years> <put author's name and email here>
-           <years> <likewise for another author>
+Copyright: 2012 Mike Elkins <me6g08@ecs.soton.ac.uk>
 License: GPL-3.0+
 
 Files: debian/*
