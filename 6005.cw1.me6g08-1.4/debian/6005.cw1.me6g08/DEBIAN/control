@@ -1,8 +1,8 @@
 Package: 6005.cw1.me6g08
-Version: 1.0-1
+Version: 1.4
 Architecture: i386
 Maintainer: Mike Elkins <me6g08@ecs.soton.ac.uk>
-Installed-Size: 76
+Installed-Size: 84
 Depends: php5-cli, debconf
 Section: net
 Priority: extra

@@ -1,7 +1,8 @@
 9ea1c1ceecb97e541af272ca4fd7be82  usr/bin/6005.cw1.me6g08
 55e95b1c259abdf955e356d36d6469a0  usr/share/6005.cw1.me6g08/feeds.conf
-2506e260a92580b30cc582c522cf6e1b  usr/share/6005.cw1.me6g08/index.php
+6cc4b3c66f7f8c5882a93fb0c5ff6891  usr/share/6005.cw1.me6g08/index.php
 79469f4f49ec97ec2aa0f24485f0f440  usr/share/6005.cw1.me6g08/rss_php.php
-4906718722f767a886cc5c3f5ac237b2  usr/share/doc/6005.cw1.me6g08/changelog.Debian.gz
+1dcfc4604120070025716d4aa62b78a4  usr/share/doc/6005.cw1.me6g08/changelog.gz
 3aabd145483e332016a0b5dc83fc8d6f  usr/share/doc/6005.cw1.me6g08/copyright
-f23a791e7c2e90d286ad81645b93c5d9  usr/share/man/man1/6005.cw1.me6g08.1.gz
+93e4f11dd5a5cf4e36fdf0713cf3e306  usr/share/doc/6005.cw1.me6g08/examples/6005.cw1.me6g08.example
+0414be484aebf2a5e747330ce1e5440c  usr/share/man/man1/6005.cw1.me6g08.1.gz
